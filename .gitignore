@@ -1,8 +1,6 @@
 *.suo
 .vs/
 
-RPG/Assets/MotionFramework
-RPG/Assets/MotionFramework.meta
 RPG/Assets/StreamingAssets
 RPG/Assets/StreamingAssets.meta
 RPG/Assets/GameScript/Runtime/ILRBinding
@@ -22,3 +20,4 @@ RPG/MotionFramework.Editor.csproj
 RPG/RPG.sln
 RPG/YooAsset.csproj
 RPG/YooAsset.Editor.csproj
+/工具/FlashExcel-bin-v1.0.4
